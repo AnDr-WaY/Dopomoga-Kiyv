@@ -449,6 +449,7 @@ body.lock{
 .menu_contacts {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
 }
 .menu_contacts_item:last-child {
     margin-left: 30px;
